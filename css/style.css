@@ -1247,12 +1247,14 @@ img{
 
 .footer__social:hover{
   color: var(--first-color-lighter);
+  
 }
 
 .footer__copy{
   font-size: var(--smaller-font-size);
   text-align: center;
-  color: var(--text-color);
+  /* color: var(--text-color); */
+  color: var(--first-color-lighter);
   margin-top: var(--mb-3);
 }
 
