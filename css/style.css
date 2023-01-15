@@ -400,7 +400,7 @@ img{
     width: 600px;
     align-content: center;
     text-align: center;
-    transform: translateX(-4rem);
+    /* transform: translateX(-4rem); */
 }
 
 .home__welcome{
@@ -1368,7 +1368,7 @@ img{
       }
       .section{
         min-height: 60vh;
-      }
+      } 
       .home__data{
         grid-column: initial;
       }
